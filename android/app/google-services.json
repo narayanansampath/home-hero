@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757980626508",
+    "project_id": "home-hero-90faa",
+    "storage_bucket": "home-hero-90faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757980626508:android:7143981883912e5dd23ee9",
+        "android_client_info": {
+          "package_name": "com.example.home_hero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bMzvHlUYaJkOUoh9L3njojcbBfUbjvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
